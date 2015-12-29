@@ -125,7 +125,7 @@ Como inscrever-se?
 
 + Aulas Avançadas – Terças das 11:00 às 12:15
 
-100 Eur. até dia 8 de Fevereiro – 110 Eur. depois desta data.
+100 Eur. até dia 8 de Janeiro – 110 Eur. depois desta data.
 
 Em alternativa, pode efetuar o pagamento de 40 Eur. cada mês de assistência às aulas.
 
@@ -134,7 +134,7 @@ Em alternativa, pode efetuar o pagamento de 40 Eur. cada mês de assistência à
 **Horários:**
 
 + Terças e Quintas das 12:30 às 13:45 ou Terças e Quintas das 18:45 às 20h
-160 Euros até dia 8 de janeiro – 170 Eur. depois desta data.
+160 Euros até dia 8 de Janeiro – 170 Eur. depois desta data.
 
 + Em alternativa, pode efetuar o pagamento de 60 Eur. cada mês de assistência às aulas.
 
