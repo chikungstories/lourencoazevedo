@@ -1,0 +1,180 @@
+  /* fonts */
+
+  /*Montserrat*/
+
+  @font-face {
+    font-family: "Montserrat";
+    src: url("/fonts/Montserrat-Regular.otf");
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Montserrat";
+    src: url("/fonts/Montserrat-Bold.otf");
+    font-weight: 700;
+  }
+
+  /* Open Sans */
+
+  @font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-Light.ttf");
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-Regular.ttf");
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-Bold.ttf");
+    font-weight: 700;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-LightItalic.ttf");
+    font-weight: 300;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-Italic.ttf");
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-BoldItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+  }
+
+      body {
+        color: #444444;
+        font-family: "Open Sans", Arial, serif;
+        font-size: 100%;
+        line-height: 1.5;
+        font-weight: 400;
+      }
+      
+      h1, h2, h3, .h1, .h2, .h3 {
+        font-family: "Open Sans", Arial, serif;
+        font-weight: 400;
+        line-height: 1.25;
+        margin-top: .5em;
+      }
+      
+      h2 { margin-bottom: .2em;}
+      
+      h1, .h1 {
+        font-size: 49.30px;
+        color: #ff6600;
+      }
+      
+      h2, .h2 {
+        font-size: 30.46px;
+      }
+      
+      h3, .h3 {
+        font-size: 30.46px;
+        color: #ff6600;
+      }
+      
+      h1+h2+h3 { margin-top: 0; }
+      
+      p, .p, ul, ol {
+        font-family: "Open Sans";
+        font-size: 19px;
+
+      }
+            
+      /* Header and tag line */
+
+      span.orange { 
+              font-family: "Montserrat";
+              font-size: 30.466px; 
+              line-height: 1.2em; 
+              margin-bottom: .6em; 
+              font-weight: 700;
+              color: #ff6600;
+            }
+
+        span.grey { 
+                font-family: "Montserrat"; 
+                font-size: 30.466px; 
+                line-height: 0em; 
+                margin-bottom: .6em; 
+                color: #666;
+              }   
+
+      /* menu */
+
+      span.menu { 
+                  font-family: "Montserrat"; 
+                  font-size: 19px; 
+                  line-height: 70px;
+                  /* line-height: 40px; */
+                  margin-bottom: .6em; 
+                  color: #666;
+                } 
+
+      /* link degradé */
+
+      a {
+        color: #268bd2;
+        text-decoration: none;
+
+        /* 
+        First we need to help some browsers along for this to work.
+        Just because a vendor prefix is there, doesn't mean it will
+        work in a browser made by that vendor either, it's just for
+        future-proofing purposes I guess. 
+        */
+
+        -o-transition:.7s;
+        -ms-transition:.7s;
+        -moz-transition:.7s;
+        -webkit-transition:.7s;
+
+        /* ...and now for the proper property */
+
+        transition:.7s;
+      }
+
+      a:hover { color: #FF6600; }
+
+/*
+            
+      a {
+        color: #0099bb;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: #0099bb;
+        text-decoration: underline;
+      }
+          
+      blockquote {
+        padding-left: 1em;
+        font-style: italic;
+        border-left: 2px solid #ddd;
+      }
+
+*/
+    
+/* lists */
+
+  ul, ol { margin-bottom: 1.3em; }
+  ul { list-style: disc outside; margin-left: 2em; }
+  ol { list-style: decimal; margin-left: 2.6em; }
+  li { line-height: 1.35em; margin-bottom: .5em; } 
+
+  /* Block quote */
+
+  blockquote, blockquote p { 
+    font-size: 1.1em; 
+    line-height: 1.4em; 
+    font-style: italic; 
+    color: #666; }
+ 

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head>
+<title>{{ page.title }}</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="A Arte do Cultivo da Quietude" />
+<meta name="copyright" content="Lourenco de Azevedo" />
+<link rel="stylesheet" href="css/framework.css" media="all">
+<link rel="icon" type="image/jpg" href="/imagens/mawangdui.jpg">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.icon | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:site_name" content="{{ site.description }}">
+<link rel="stylesheet" href="/css/skeleton.css" media="all">
+<link rel="stylesheet" href="/css/standing.css" media="all">
+<link rel="icon" type="image/jpg" href="/imagens/mawangdui.jpg">  
+</head>
+<body>
+<div class="container">
+		<div class="nine columns">
+			<span class="orange">Zhan Zhuang Chi Kung</span><p></p>
+			<span class="grey">A Arte do Cultivo da Quietude</span>
+		</div>
+		<div class="nine columns">
+			<ul>
+			<span class="menu"> 
+				<a href="/index.html">Início</a>&nbsp;&nbsp;
+				<a href="http://eepurl.com/g-Ehg">Subscrever</a>&nbsp;&nbsp;
+				<a href="/contacto.html">Contacto</a>&nbsp;&nbsp;
+			</span>
+			</ul>
+		</div>
+		<hr>
+</div>
+<div class="container">
+		<div class="sixteen columns offset-by-two">
+			
+				{{ content}}
+			<hr>
+		</div>
+</div>
+<!-- END GRID -->
+</body>
+</html>

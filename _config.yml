@@ -1,0 +1,19 @@
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+posts: 	     ./_posts
+layouts:     ./_layouts
+include:     ['.htaccess']
+exclude:     []
+markdown: kramdown
+name: Zhan Zhuang Chi Kung
+description: A Arte do Cultivo da Quietude
+url: "http://lourencoazevedo.com"
+icon: "/imagens/mawangdui.jpg"
+safe: true
+lsi: false
+highlighter: 'pygments'
+
+
+
+
