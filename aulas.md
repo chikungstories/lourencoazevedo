@@ -172,7 +172,7 @@ Primeira aula gratuita
 
 ### Passo 2
 
-Preencha os seguinte formulário.
+Preencha os [seguinte formulário](/inscricao.html).
 
 ### Passo 3
 

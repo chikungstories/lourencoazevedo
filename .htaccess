@@ -1,1 +1,6 @@
-ErrorDocument 404 404.html
+ErrorDocument 404 /404.html
+
+# redirect - it's remarked because it doesn't work
+
+# RewriteCond %{HTTP_HOST} ^lourencoazevedo.com
+# RewriteRule ^(.*) http://lourencoazevedo.com/lourencoazevedo.com/_site/$1 [P] 
