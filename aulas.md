@@ -3,7 +3,7 @@ layout: default
 title: Aulas
 ---
 
-# Re-conectar.
+# Re-conectar
 
 <p align="center"><img src="/imagens/connection.jpg" style="border-radius: 15px; width: 100%"></p>
 
