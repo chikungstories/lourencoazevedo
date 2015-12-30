@@ -92,8 +92,8 @@
 
       span.orange { 
               font-family: "Montserrat";
-              font-size: 30.466px; 
-              line-height: 1.2em; 
+              font-size: 30.742px; 
+              line-height: 30.742px; 
               margin-bottom: .6em; 
               font-weight: 700;
               color: #ff6600;
@@ -101,9 +101,9 @@
 
         span.grey { 
                 font-family: "Montserrat"; 
-                font-size: 30.466px; 
+                font-size: 30.742px; 
                 line-height: 0em; 
-                margin-bottom: .6em; 
+                margin-bottom: 0px; 
                 color: #666;
               }   
 
@@ -111,10 +111,9 @@
 
       span.menu { 
                   font-family: "Montserrat"; 
-                  font-size: 19px; 
-                  line-height: 70px;
-                  /* line-height: 40px; */
-                  margin-bottom: .6em; 
+                  font-size: 19px;
+                  line-height: 0em; 
+                  margin-bottom: 0px;  
                   color: #666;
                 } 
 
