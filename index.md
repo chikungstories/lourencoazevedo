@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: A Arte do Cultivo da Quietude
+title: Zhan Zhuang ChiKung | A Arte do Cultivo da Quietude
 ---
 # Aulas regulares
 
