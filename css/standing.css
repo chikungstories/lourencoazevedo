@@ -98,8 +98,16 @@
                 font-weight: 700;
                 color: #ff6600;
                 }
-                
-      @media only screen and (max-width: 767px) {
+
+      p.grey {
+                font-family: "Montserrat"; 
+                font-size: 30.742px; 
+                line-height: 19px; 
+                margin-bottom: 11px; 
+                color: #666;
+              }
+
+        @media only screen and (max-width: 767px) {
 
         p.orange {
                 font-family: "Montserrat";
@@ -109,16 +117,15 @@
                 font-weight: 700;
                 color: #ff6600;
                 }
-       }         
 
-
-      p.grey {
+                p.grey {
                 font-family: "Montserrat"; 
                 font-size: 30.742px; 
                 line-height: 19px; 
                 margin-bottom: 11px; 
                 color: #666;
               }
+       }         
 
       /* menu */
 
