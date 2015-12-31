@@ -93,7 +93,7 @@
       p.orange {
                 font-family: "Montserrat";
                 font-size: 30.742px; 
-                margin-top: 19px;
+                margin-top: 11px;
                 line-height: 11px; 
                 font-weight: 700;
                 color: #ff6600;
@@ -102,8 +102,8 @@
       p.grey {
                 font-family: "Montserrat"; 
                 font-size: 30.742px; 
-                line-height: 11px; 
-                margin-bottom: 19px; 
+                line-height: 19px; 
+                margin-bottom: 11px; 
                 color: #666;
               }
 
