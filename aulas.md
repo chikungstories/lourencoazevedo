@@ -7,9 +7,9 @@ title: Aulas
 
 <p align="center"><img src="/imagens/connection.jpg" style="border-radius: 15px; width: 100%"></p>
 
-### 10 semanas para viver o Inverno e preparar-se para a Primavera
+## 10 semanas para viver o Inverno e preparar-se para a Primavera
 
-## De 12 de Janeiro a 17 de Março.
+### De 12 de Janeiro a 17 de Março.
 
 *"Quando o teu corpo não está alinhado,*
 
@@ -115,7 +115,7 @@ Como inscrever-se?
 
 ## Escolha a intensidade do treino que pretende.
 
-## Uma vez por semana
+### Uma vez por semana
 
 **Horários:**
 
@@ -129,7 +129,7 @@ Como inscrever-se?
 
 Em alternativa, pode efetuar o pagamento de 40 Eur. cada mês de assistência às aulas.
 
-## Duas vezes por semana
+### Duas vezes por semana
 
 **Horários:**
 

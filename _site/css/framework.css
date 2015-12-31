@@ -133,6 +133,7 @@ article {
 body {
 	font-family: "Open Sans", Arial, sans-serif;
 	color: #444;
+	font-size: 19px;
 	line-height: 1em;
 	margin-top: 1em; /* 3.5 */
 	margin-bottom: 5em;
@@ -149,15 +150,16 @@ li {
 ul,
 ol {
 	margin-bottom: 1em;
+	margin-left: 1.5em;
 }
 
 ul {
-	list-style-type: square;
+	list-style-type: disc outside;
 }
 
 li {
 	margin-bottom: .38em;
-	margin-left: 1em;
+	margin-left: 1.5em;
 }
 
 h1,
@@ -166,8 +168,8 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "sans-serif";
-	font-weight: 600;
+	font-family: "Open Sans" Arial, sans-serif;
+	font-weight: 400;
 	color: #333;
 }
 
@@ -175,6 +177,7 @@ h1 {
 	font-size: 2em;
 	line-height: 1.2em;
 	margin-bottom: .4em;
+	color: #ff6600
 }
 
 h2 {
@@ -187,6 +190,8 @@ h3 {
 	font-size: 1.6em;
 	line-height: 1.2em;
 	margin-bottom: .35em;
+	color: #ff6600
+	
 }
 
 h4 {
@@ -219,37 +224,36 @@ hr {
 	margin-bottom: .9em;
 }
 
-/* titulo */
-    	
-	span.orange { font-family: "Montserrat";
-				  font-size: 2em; 
-				  line-height: 1.2em; 
-				  margin-bottom: .6em; 
-				  font-weight: 700;
-				  color: #ff6600;
-				}
+/* Header and tag line */
 
-    span.grey { 
-    			  font-family: "Montserrat"; 
-    			  font-size: 2em; 
-    			  line-height: 0em; 
-    			  margin-bottom: .6em; 
-    			  color: #666;
-    			} 
-/* titulo */    
+      p.orange {
+                font-family: "Montserrat";
+                font-size: 1.8em; 
+                line-height: 1.2em;
+                margin-bottom: 0.4em; 
+                font-weight: 700;
+                color: #ff6600;
+                }
 
-/* menu */
+      p.grey {
+                font-family: "Montserrat"; 
+                font-size: 1.6em; 
+                line-height: 1.2em; 
+                margin-bottom: 0.35em; 
+                color: #666;
+              }
 
-span.menu { 
-    			  font-family: "Montserrat"; 
-    			  font-size: 1.2em; 
-    			  line-height: 2em; 
-    			  margin-bottom: .6em; 
-    			  color: #666;
-    			} 
 
-/* menu */
 
+      /* menu */
+
+      p.menu { 
+                  font-family: "Montserrat"; 
+                  font-size: 1em;
+                  line-height: 1em; 
+                  margin-bottom: 0.35em;  
+                  color: #666;
+                } 
 
 
 a {
@@ -336,7 +340,7 @@ pre code {
 }
 /* grid */
 
-.contain {
+.container {
 	position: relative;
 	width: 90%;
 	margin: 0 auto;
@@ -353,7 +357,7 @@ pre code {
 /* For devices larger than 400px */
 
 @media (min-width: 400px) {
-	.contain {
+	.container {
 		width: 90%;
 		padding: 0;
 	}
@@ -361,7 +365,7 @@ pre code {
 /* For devices larger than 550px */
 
 @media (min-width: 550px) {
-	.contain {
+	.container {
 		width: 90%;
 	}
 	.col {
