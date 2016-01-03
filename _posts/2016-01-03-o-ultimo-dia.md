@@ -1,7 +1,6 @@
 ---
 layout: post
 title: O último dia de prática
-image: "/pimages/void.jpg"
 categories:
 - post
 ---
