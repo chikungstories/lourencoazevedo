@@ -2,6 +2,8 @@
 title: O Chi Kung e o Miso
 author: admin
 layout: post
+categories:
+- post
 ---
 O Miso é um preparado de Soja fermentada.
 

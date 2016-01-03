@@ -2,6 +2,8 @@
 title: Treino Avançado
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando se pensa um aluno avançado pensa-se num aluno tecnicamente correcto &#8211; na postura, no movimento na intenção e que isso leva tempo e necessita de condições especiais.
 

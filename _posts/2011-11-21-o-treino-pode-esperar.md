@@ -2,6 +2,8 @@
 title: 'Factores de bloqueio do treino &#8211; Factores de aprendizagem.'
 author: admin
 layout: post
+categories:
+- post
 ---
 Existe um provérbio chinês que afirma que se pode comer de tudo, desde que se saiba como, quando e em que quantidade.
 

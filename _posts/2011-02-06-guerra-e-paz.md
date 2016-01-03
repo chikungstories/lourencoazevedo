@@ -2,6 +2,8 @@
 title: Guerra e Paz
 author: admin
 layout: post
+categories:
+- post
 ---
 No passado haveria para muitas populações dois tempos.
 

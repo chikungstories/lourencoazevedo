@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Explorar a Impossibilidade"
+categories:
+- post
 ---
 Facilmente se imaginam locais perfeitos de prática para o Chi Kung, a praia, o campo ou montanha, ou um qualquer templo perdido nas montanhas de um pais distante onde existe o silêncio e o cheiro do incenso no ar.
 

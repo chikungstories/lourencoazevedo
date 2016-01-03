@@ -2,6 +2,8 @@
 title: Treinar no conforto
 author: admin
 layout: post
+categories:
+- post
 ---
 São quase 10 horas tomei um pequeno almoço leve para treinar.
 

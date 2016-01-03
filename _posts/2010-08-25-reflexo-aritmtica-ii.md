@@ -2,6 +2,8 @@
 title: Reflexão aritmética II
 author: admin
 layout: post
+categories:
+- post
 ---
 Numa turma com cerca 80 alunos seniores de Chi Kung divididos por duas turmas uma câmara municipal poderá gastar cerca de 25 euros &#8211; 12,5 por hora.
 

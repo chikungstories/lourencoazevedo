@@ -2,6 +2,8 @@
 title: Ajudar os outros
 author: admin
 layout: post
+categories:
+- post
 ---
 Conta-se a história que um ancião e a sua neta que tinha a profissão de acrobatas procuraram Buda para um conselho.
 

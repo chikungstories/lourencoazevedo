@@ -2,6 +2,8 @@
 title: Evitar o monoalimento
 author: admin
 layout: post
+categories:
+- post
 ---
 Sabe-se que o mono alimento hoje em dia poderá trazer a longo prazo carências alimentares.
 

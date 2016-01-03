@@ -2,6 +2,8 @@
 title: Lidar com o urgente
 author: admin
 layout: post
+categories:
+- post
 ---
 Quem treina sabe que existem as situações urgentes.
 

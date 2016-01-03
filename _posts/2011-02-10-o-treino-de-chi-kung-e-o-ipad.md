@@ -2,6 +2,8 @@
 title: O treino de Chi Kung e o iPad
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando o iPad foi lançado pela Apple recebeu críticas muito duras de muitos consumidores.
 

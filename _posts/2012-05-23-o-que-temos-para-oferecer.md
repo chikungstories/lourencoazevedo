@@ -2,6 +2,8 @@
 title: O que temos para oferecer?
 author: admin
 layout: post
+categories:
+- post
 ---
 A minha mulher recebeu há uns meses um SMS de uma cadeia de ginásios em que por menos de 50€ existe a possibilidade de experimentar todas as actividades desse ginásio.
 

@@ -2,6 +2,8 @@
 title: 'Como peixes na água &#8211; conclusão'
 author: admin
 layout: post
+categories:
+- post
 ---
 Para o praticante é mais importante sentir aquilo que já lá está.
 

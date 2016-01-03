@@ -2,6 +2,8 @@
 title: Isto que fazemos é uma estupidez!!!!
 author: admin
 layout: post
+categories:
+- post
 ---
 O Peter Den Dekker contou-me esta história:
 

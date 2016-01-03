@@ -2,6 +2,8 @@
 title: Estar no agora ou no depois.
 author: admin
 layout: post
+categories:
+- post
 ---
 É muito fácil enlouquecer nos processos de optimização e esquecer os processos criativos.
 

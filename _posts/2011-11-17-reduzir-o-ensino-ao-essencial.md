@@ -2,6 +2,8 @@
 title: Reduzir o ensino ao essencial.
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando se ensina a questão não é se sei dez exercícios para as pernas mas se consigo segmentar um exercício para as pernas em dez partes.
 

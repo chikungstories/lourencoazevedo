@@ -2,6 +2,8 @@
 title: Chi Kung Time Wise
 author: admin
 layout: post
+categories:
+- post
 ---
 10 minutos x 360 dias são mais de 3 dias de treino ao fim de um ano
 

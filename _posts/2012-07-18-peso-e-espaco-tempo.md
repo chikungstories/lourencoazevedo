@@ -2,6 +2,8 @@
 title: Peso, Espaço e Alimentação
 author: admin
 layout: post
+categories:
+- post
 ---
 A alimentação tem um papel importante na criação do Peso e Espaço.
 

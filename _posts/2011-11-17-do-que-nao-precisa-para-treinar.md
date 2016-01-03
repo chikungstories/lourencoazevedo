@@ -2,6 +2,8 @@
 title: Do que não precisa para treinar?
 author: admin
 layout: post
+categories:
+- post
 ---
 No inicio da prática do Chi Kung todos nós visionamos o local perfeito de treino. Na natureza, passarinhos, num dia fantástico, ao por ou ao nascer do sol.
 

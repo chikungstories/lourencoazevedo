@@ -2,6 +2,8 @@
 title: Robberto Bos
 author: admin
 layout: post
+categories:
+- post
 ---
 A primeira aula que realizei com o Peter Den Dekker em 2004 foi a uma quinta feira às 17:00.
 

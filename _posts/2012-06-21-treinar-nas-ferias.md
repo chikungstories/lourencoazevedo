@@ -2,6 +2,8 @@
 title: Treinar nas férias
 author: admin
 layout: post
+categories:
+- post
 ---
 Lembro-em em algumas situações de uma pergunta clássica que se coloca para ajudar a filtrar o que é importante do acessório &#8211; Se numa situação de catástrofe pudessem levar só um livro convosco qual seria?
 

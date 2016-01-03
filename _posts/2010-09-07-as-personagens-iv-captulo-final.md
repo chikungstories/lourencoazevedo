@@ -2,6 +2,8 @@
 title: 'As Personagens IV &#8211; Capítulo Final.'
 author: admin
 layout: post
+categories:
+- post
 ---
 Se o professor pode fazer a multiplicação dos pães o Mestre consegue fazer a multiplicação e qualquer coisa.
 

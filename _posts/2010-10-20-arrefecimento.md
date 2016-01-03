@@ -2,6 +2,8 @@
 title: Arrefecimento
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando se aquece embora seja uma rotina simples deve criar um aquecimento efectivo do corpo.
 

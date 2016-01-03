@@ -2,6 +2,8 @@
 title: 15 Livros sobre Chi Kung
 author: admin
 layout: post
+categories:
+- post
 ---
 Este é um artigo revisto e acrescentado publicado em Dezembro de 2009. Na altura continha os 10 livros que eu considero essenciais para a minha prática.
 

@@ -2,6 +2,8 @@
 title: Distrações
 author: admin
 layout: post
+categories:
+- post
 ---
 Lembro-me das primeiras aulas de Chi Kung a que assisti.
 

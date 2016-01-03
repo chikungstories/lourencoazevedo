@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Responder a partir da quietude
+categories:
+- post
 ---
 
 + Responder aos emails

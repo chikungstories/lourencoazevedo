@@ -2,6 +2,8 @@
 title: Disciplina
 author: admin
 layout: post
+categories:
+- post
 ---
 Observar alguém a improvisar com o corpo ou com um instrumento é algo fantástico.
 

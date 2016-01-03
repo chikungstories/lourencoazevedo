@@ -2,6 +2,8 @@
 title: Os dias de comemoração.
 author: admin
 layout: post
+categories:
+- post
 ---
 Pensem nos dias que se comemoram coisas, objectos, festividades, órgãos do corpo, doenças, pessoas ou géneros e na energia e tempo que se coloca nesses dias nessas comemorações.
 

@@ -2,6 +2,8 @@
 title: Back to the future
 author: admin
 layout: post
+categories:
+- post
 ---
 <p><a href="http://www.youtube.com/watch?v=YtvYaK6cm0g" target="_blank">Back to the future </a>é um dos meus filmes preferidos. Sempre gostei da ideia de algo que se altera no passado possa ter repercussões tão profundas no futuro.</p>
 

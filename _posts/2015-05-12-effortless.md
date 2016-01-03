@@ -2,6 +2,8 @@
 layout: post
 title: Viver sem esforço
 image: /pimagens/2015-05-12.jpg
+categories:
+- post
 ---
 <p align="center"><img src="http://http://devagar.org/pimagens/2015-05-12.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 

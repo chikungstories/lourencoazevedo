@@ -2,6 +2,8 @@
 title: O sistema nervoso e a comida de plástico
 author: admin
 layout: post
+categories:
+- post
 ---
 Segundo o site <a href="http://wiki.answers.com/How_many_varieties_of_heinz_are_there#ixzz17e6q9fes" target="_blank">Ask.com</a> existem cerca de 5700 tipos de ketchup que estão em produção actualmente em mais de 200 países.
 

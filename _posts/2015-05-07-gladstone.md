@@ -2,6 +2,8 @@
 layout: post
 title: Chi Kung em viagem - Gladstone Library - Parte 1
 image: /pimagens/2015-05-07-1.jpg
+categories:
+- post
 ---
 
 <p align="center"><img src="http://devagar.org/pimagens/2015-05-07-1.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>

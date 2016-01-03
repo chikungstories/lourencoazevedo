@@ -3,6 +3,7 @@ title: Peso e Espaço
 author: admin
 layout: post
 categories:
+- post
 ---
 Peso é enraizamento.
 

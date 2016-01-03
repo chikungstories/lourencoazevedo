@@ -2,6 +2,8 @@
 title: Os alunos que temos
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando iniciei a dar aulas era simples.
 

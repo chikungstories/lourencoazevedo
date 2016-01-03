@@ -2,6 +2,8 @@
 title: Polariadades
 author: admin
 layout: post
+categories:
+- post
 ---
 Um dos requisitos para uma prática motivadora são as polaridades.
 

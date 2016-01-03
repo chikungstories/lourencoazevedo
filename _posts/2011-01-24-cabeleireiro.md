@@ -2,6 +2,8 @@
 title: Cabeleireiro
 author: admin
 layout: post
+categories:
+- post
 ---
 Em Amesterdão existe um cabeleireiro.
 

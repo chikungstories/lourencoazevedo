@@ -2,6 +2,8 @@
 title: Respostas e Perguntas
 author: admin
 layout: post
+categories:
+- post
 ---
 Existem duas formas de ensino que considero importantes &#8211; A que damos as respostas e as que deixamos as perguntas por responder no fim da aula.
 

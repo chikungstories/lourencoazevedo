@@ -2,6 +2,8 @@
 title: Tornar-se profissional
 author: admin
 layout: post
+categories:
+- post
 ---
 Dar o passo de se tornar profissional numa arte é um dos movimentos mais importantes para quem quer treinar com regularidade.
 

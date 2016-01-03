@@ -2,6 +2,8 @@
 title: O Futebol e a Mente de Principiante
 author: admin
 layout: post
+categories:
+- post
 ---
 No dia 28 de Agosto de 2010 o Benfica jogou contra o Vitória de Setúbal.
 

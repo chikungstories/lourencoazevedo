@@ -2,6 +2,8 @@
 title: Ser inconveniente
 author: admin
 layout: post
+categories:
+- post
 ---
 Todos nós sabemos que o Chi Kung que ensinamos tem partes inconvenientes.
 

@@ -2,6 +2,8 @@
 title: Como apanhar uma lebre?
 author: admin
 layout: post
+categories:
+- post
 ---
 Na Holanda existe uma frase que define encontrar uma solução criativa para algo que á partida é muito desafiante e aparentemente impossível.
 

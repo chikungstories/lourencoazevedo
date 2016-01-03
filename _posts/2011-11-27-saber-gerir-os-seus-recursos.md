@@ -3,7 +3,7 @@ title: Saber gerir recursos
 author: admin
 layout: post
 categories:
-  - Artigos
+- post
 ---
 Existem alturas em que é necessário viver com menos recursos.
 

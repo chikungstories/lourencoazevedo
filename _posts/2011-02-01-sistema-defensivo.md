@@ -2,6 +2,8 @@
 title: Sistema defensivo
 author: admin
 layout: post
+categories:
+- post
 ---
 No passado não haveria a facilidade de tomar vacinas ou comprar suplementos que existe hoje.
 

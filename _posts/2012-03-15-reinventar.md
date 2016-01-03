@@ -2,6 +2,8 @@
 title: A capacidade de se reinventarem no treino
 author: admin
 layout: post
+categories:
+- post
 ---
 O meu treino é essencialmente solitário.
 

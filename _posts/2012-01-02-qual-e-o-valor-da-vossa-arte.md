@@ -2,6 +2,8 @@
 title: Qual é o valor da vossa arte
 author: admin
 layout: post
+categories:
+- post
 ---
 No sul da China algumas províncias apresentam uma forma que eu acho brilhante de dar valor à sua arte.
 

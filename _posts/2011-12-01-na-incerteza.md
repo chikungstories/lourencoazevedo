@@ -2,6 +2,8 @@
 title: Na incerteza
 author: admin
 layout: post
+categories:
+- post
 ---
 Na incerteza dos dias que podem ter como raiz crises globais ou pessoais existem três movimentos que me ajudam grandemente:
 

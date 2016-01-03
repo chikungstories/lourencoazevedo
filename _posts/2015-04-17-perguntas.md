@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Perguntas mais frequentes
+categories:
+- post
 ---
 Compilei uma série perguntas mais frequentes, que me têm sido feitas por email, sobre este seminário. 
 

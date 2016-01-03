@@ -2,6 +2,8 @@
 title: Multiplicar os Pães
 author: admin
 layout: post
+categories:
+- post
 ---
 Penso que a história da multiplicação dos pães não é uma história desconhecida. (Marcos 6.35-42)
 

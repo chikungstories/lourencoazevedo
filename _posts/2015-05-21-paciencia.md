@@ -2,6 +2,8 @@
 layout: post
 title: Cultivar a paciência
 image: /pimagens/2015-05-21.jpg
+categories:
+- post
 ---
 <p align="center"><img src="http://devagar.org/pimagens/2015-05-21.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
 

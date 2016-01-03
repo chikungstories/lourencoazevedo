@@ -2,6 +2,8 @@
 title: Estabilizar
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando o Surfista consegue estar na prancha já sem cair
 

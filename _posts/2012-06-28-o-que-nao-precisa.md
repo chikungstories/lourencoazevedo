@@ -2,6 +2,8 @@
 title: Aquilo que não precisa para começar a treinar Chi Kung hoje.
 author: admin
 layout: post
+categories:
+- post
 ---
 Tomar a decisão de desenvolver um treino regular ou marcar um dia no calendário &#8211; o dia Zero, para começar a praticar pode encontrar alguns obstáculos.
 

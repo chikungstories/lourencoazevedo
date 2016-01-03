@@ -2,6 +2,8 @@
 title: Ir ao limite
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando se fala em ir até ao limite pensa-se muitas vezes em posturas difíceis, suor, lágrimas e dores musculares durante dois dias.
 

@@ -2,6 +2,8 @@
 title: Como Treinar Mais com Menos
 author: admin
 layout: post
+categories:
+- post
 ---
 A criação de um hábito de treino muitas vezes não tem a ver com a força de vontade.
 

@@ -2,6 +2,8 @@
 title: Até onde querem ousar?
 author: admin
 layout: post
+categories:
+- post
 ---
 No Natal de 2008 estava sem soluções para prendas de natal para a minha mãe.
 

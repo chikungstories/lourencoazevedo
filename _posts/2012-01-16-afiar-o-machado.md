@@ -2,6 +2,8 @@
 title: Afiar o machado
 author: admin
 layout: post
+categories:
+- post
 ---
 O 16º presidente dos Estados Unidos &#8211; Abraham Lincoln afirmou uma vez &#8211; *"Se me dessem oito horas para derrubar uma árvore passava seis delas a afiar o machado."*
 

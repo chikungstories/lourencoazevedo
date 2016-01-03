@@ -2,6 +2,8 @@
 title: O pouco que se torna muito II
 author: admin
 layout: post
+categories:
+- post
 ---
 Se um avião estiver em Nova Iorque com a rota orientada para Lisboa basta um pequeno ajuste nos graus da rota para o destino ser um pais algures na costa africana.
 

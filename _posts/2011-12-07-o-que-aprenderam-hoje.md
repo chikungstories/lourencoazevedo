@@ -2,6 +2,8 @@
 title: O que aprenderam hoje?
 author: admin
 layout: post
+categories:
+- post
 ---
 Tenho um bloco de notas em que aponto o que aprendo quando tenho aulas com quem estudo. No mesmo bloco aponto o que aprendo com os meus alunos e pacientes.
 

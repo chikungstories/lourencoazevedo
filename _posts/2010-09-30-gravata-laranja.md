@@ -2,6 +2,8 @@
 title: Gravata laranja
 author: admin
 layout: post
+categories:
+- post
 ---
 Se não existe um&#8221; estimulante&#8221; ou trabalho de casa o treino corre o risco de se tornar como o típico trabalhador estagnado. Chega sempre a horas ao serviço, senta-se à secretária, trabalha, sai ao fim do dia. Aparentemente parece que está a ser produtivo mas está totalmente estagnado e é o primeiro a opor-se à mudança.
 

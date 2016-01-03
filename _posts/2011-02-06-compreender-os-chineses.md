@@ -2,6 +2,8 @@
 title: Compreender os Chineses
 author: admin
 layout: post
+categories:
+- post
 ---
 Um dos melhores vídeos que fala de uma forma simples aquilo que para nós é menos simples.
 

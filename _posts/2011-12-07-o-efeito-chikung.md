@@ -2,6 +2,8 @@
 title: O efeito Chi Kung
 author: admin
 layout: post
+categories:
+- post
 ---
 Numa altura em que se fala do Chi Kung terapêutico como Arte Marcial ou como desporto segue o meu testemunho.
 

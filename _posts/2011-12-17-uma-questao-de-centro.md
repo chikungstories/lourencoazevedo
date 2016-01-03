@@ -2,6 +2,8 @@
 title: Uma questão de Centro
 author: admin
 layout: post
+categories:
+- post
 ---
 No treino como na vida temos práticas que  habitualmente treinamos mais.
 

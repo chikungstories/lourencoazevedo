@@ -2,6 +2,8 @@
 title: Treinar o Fácil
 author: admin
 layout: post
+categories:
+- post
 ---
 Uma pergunta comum para quem ensina por parte dos alunos é &#8211; o que devo treinar em casa?
 

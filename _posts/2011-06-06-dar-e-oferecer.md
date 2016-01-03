@@ -2,6 +2,8 @@
 title: Dar e Oferecer
 author: admin
 layout: post
+categories:
+- post
 ---
 **Dar**
 

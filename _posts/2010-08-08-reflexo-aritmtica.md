@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Reflexão aritmética"
+categories:
+- post
 ---
 20 minutos por dia ao fim de uma semana são quase duas horas e meia de treino semanal (2,3 Horas). Vezes 52 semanas é equivalente a 119,6 horas o que corresponde a 4,9 dias
 
