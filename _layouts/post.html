@@ -16,7 +16,7 @@ layout: default
 {% if page.video %}
 <iframe src="https://player.vimeo.com/video/{{ page.video }}" width="720" height="406" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p><a href="{{ page.video-url }}">Chi kung Stories Home Practice Video</a> from <a href="https://vimeo.com/user44749248">Lourenco de Azevedo</a></p>
+<p><a href="https://vimeo.com/{{ page.video }}">{{ page.title }}</a> - clique para visualizar - (c) 2016 <a href="https://vimeo.com/user44749248">Lourenco de Azevedo</a></p>
 
 {% endif %}
 
@@ -32,22 +32,11 @@ layout: default
 <br>
 
 {% if page.previous %}
- <p><a id="left" href="{{ page.previous.url }}" title="{{ post.previous.title }}">&larr; Previous post: {{ page.previous.title }}</a></p>
+ <p><a id="left" href="{{ page.previous.url }}" title="{{ post.previous.title }}">&larr; Artigo Anterior: {{ page.previous.title }}</a></p>
 
  {% endif %}
                 
  {% if page.next %}
-    <p><a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}">&rarr; Next post: {{ page.next.title }}</a></p>
+    <p><a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}">&rarr; Próximo Artigo: {{ page.next.title }}</a></p>
 
 {% endif %}
-
-
-              
-    
-
- 
-		  
-
-
-
-
