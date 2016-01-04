@@ -6,8 +6,6 @@ categories:
 - post
 ---
 
-<p align="center"><img src="http://devagar.org/pimagens/2015-05-07-1.jpg" style="border: 1px solid #ccc; padding: 5px; width: 800px"></p>
-
 A 50 minutos de Liverpool fica [Gladstone Library](https://www.gladstoneslibrary.org/). 
 
 As 12 horas que demorei de Lisboa - via aeroporto de Faro, para chegar a esta biblioteca residencial, fizeram-me recordar viagens que fiz no passado, para destinos onde as auto-estradas não existiam, caminhadas de vários dias, ou viagens de autocarro "intermináveis", em que o cansaço por da parte da mente que quer o imediato, dá lugar ao tempo para contemplar o processo de deslocação de A para B, a um ritmo mais orgânico, com o tempo necessário para reflectir e estar no momento presente. 
