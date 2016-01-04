@@ -6,11 +6,10 @@ layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 markdown: kramdown
-name: Zhan Zhuang Chi Kung
-description: A Arte do Cultivo da Quietude
-url: "http://lourencoazevedo.com"
+name: 'Zhan Zhuang Chi Kung'
+description: 'A Arte do Cultivo da Quietude'
+url: 'http://lourencoazevedo.com'
 icon: "/imagens/mawangdui.jpg"
-permalink: /:categories/:title/
 safe: true
 lsi: false
 highlighter: 'pygments'
