@@ -28,6 +28,6 @@ title: Blog
     {% endunless %}
     
       <p>{{ post.date | date:"%d-%b: " }} <a href="{{ post.url }}">{{ post.title }}</a></p>
-    
+   
   {% endfor %}
 </ul>
