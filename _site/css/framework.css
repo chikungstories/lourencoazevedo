@@ -216,6 +216,11 @@ em {
 	font-style: italic;
 }
 
+strong { font-weight: bold; color: #333; }
+
+blockquote, blockquote p { font-size: 1em; line-height: 1.38em; font-style: italic; color: #666; }
+	blockquote { margin: 0 0 1.38em; padding: .8em; border-left: 1px solid #666; }
+
 hr {
 	border: solid #ddd;
 	clear: both;
@@ -271,6 +276,9 @@ a {
   transition:.7s;
 }
 a:hover { color: #FF6600; }
+
+
+
 
 
 /*
