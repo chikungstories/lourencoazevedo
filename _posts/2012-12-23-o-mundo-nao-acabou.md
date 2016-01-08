@@ -3,7 +3,7 @@ title: O mundo não acabou
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Assuntos como o final do mundo podem ser vistas como as distracções que são criadas para passar aquilo que é importante para segundo lugar.
 

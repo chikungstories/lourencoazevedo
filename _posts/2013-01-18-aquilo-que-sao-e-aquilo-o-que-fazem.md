@@ -3,7 +3,7 @@ title: Aquilo que são e aquilo o que fazem
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Podemos olhar para o nosso trabalho e dizermos que é isto que fazemos ou dizer é isto que somos.
 

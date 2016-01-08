@@ -3,7 +3,7 @@ title: Nem sempre corre bem
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Quando se inicia uma nova prática, uma nova fase do treino, uma nova relação essas são as situações que corre tudo bem.
 

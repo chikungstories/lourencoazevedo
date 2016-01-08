@@ -3,7 +3,7 @@ title: O pouco que se transforma em muito.
 author: admin
 layout: post
 categories:
-- post
+- artigos
 
 ---
 Nestes anos de prática costumo reflectir sobre a quantidade de exercícios que podem ser introduzidos durante a minha hora de prática ou numa aula como professor.

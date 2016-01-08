@@ -2,7 +2,7 @@
 title: Começar hoje
 layout: post
 categories:
-- post
+- artigos
 ---
 É tentador refugiarmo-nos na afirmação: 
 

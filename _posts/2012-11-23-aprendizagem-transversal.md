@@ -3,7 +3,7 @@ title: A aprendizagem transversal no Chi Kung
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 A primeira vez que ouvi o termo &#8220;Aprendizagem Transversal&#8221; foi com o filósofo Ken Wilber.
 

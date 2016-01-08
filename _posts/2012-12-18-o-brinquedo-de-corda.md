@@ -3,7 +3,7 @@ title: O brinquedo de corda
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Contaram-me que um dos embaixadores da UNESCO tinha um brinquedo de corda.
 

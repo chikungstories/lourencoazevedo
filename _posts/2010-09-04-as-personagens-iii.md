@@ -3,7 +3,7 @@ title: As Personagens III
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 A melhor forma de saber a diferença entre o Professor e o Instrutor é fazer o seguinte teste:
 

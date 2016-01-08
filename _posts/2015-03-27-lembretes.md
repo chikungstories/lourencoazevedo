@@ -2,7 +2,7 @@
 layout: post
 title: Lembretes
 categories:
-- post
+- artigos
 ---
 <a href="http://www.auplod.com/i-pdalou50550.html"><img src="http://www.auplod.com/u/pdalou50550.png" alt="Image" border="0" /></a>
 

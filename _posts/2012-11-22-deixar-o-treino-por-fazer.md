@@ -3,7 +3,7 @@ title: Deixar o treino por fazer
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 >We think we have time; (pensamos que temos tempo) - Jack Kornfield
 

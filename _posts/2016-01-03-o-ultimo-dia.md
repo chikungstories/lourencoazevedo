@@ -2,7 +2,7 @@
 layout: post
 title: O último dia de prática
 categories:
-- post
+- artigos
 ---
 No passado dia 31 de Dezembro, durante a tarde, realizei o meu último treino do ano de 2015.
 

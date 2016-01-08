@@ -2,7 +2,7 @@
 title: A importância dos antibióticos 
 layout: post
 categories:
-- post
+- artigos
 ---
 Antes da penicilina ter começado a ser utilizada como antibiótico, 90% das crianças morriam de meningite bacteriana. 
 

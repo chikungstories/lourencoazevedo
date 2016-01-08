@@ -3,7 +3,7 @@ title: Vou tentar
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Vou tentar treinar mais
 

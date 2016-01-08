@@ -3,7 +3,7 @@ title: A favor ou contra
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Numa situação de tensão,
 

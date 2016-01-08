@@ -3,7 +3,7 @@ title: Aquecimento Zero
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Quando assisto a aulas ou me preparo para as leccionar tenho vindo a dar mais e mais importância ao Aquecimento Zero. 
 

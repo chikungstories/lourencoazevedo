@@ -3,7 +3,7 @@ title: Os alunos que temos
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Quando iniciei a dar aulas era simples.
 

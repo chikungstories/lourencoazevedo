@@ -3,7 +3,7 @@ title: Descobrir a utilidade na simplicidade
 author: lourenco
 layout: post
 categories:
-- post
+- artigos
 ---
 Ler o jornal em voz alta, 20 minutos todos os dias, era um dos exercícios que o actor português Mário Viegas praticava.
 

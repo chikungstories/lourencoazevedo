@@ -3,7 +3,7 @@ title: As personagens I
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 No Chi Kung podem-se encontrar quatro tipos de personagens centrais.
 

@@ -3,7 +3,7 @@ layout: post
 title: Viver sem esforço
 image: /pimagens/2015-05-12.jpg
 categories:
-- post
+- artigos
 ---
 >Não está nas estrelas a capacidade de realizar o nosso destino, mas em nós mesmos. **William Shakespeare**  
 

@@ -3,7 +3,7 @@ title: Despertar interesse
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Uma das forças com mais potencial é a mente de criança. Tudo é possível. Quando se dá uma aula para 30 pessoas com esse tipo de atitude o potencial é multiplicado por 30.
 

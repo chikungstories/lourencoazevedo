@@ -2,7 +2,7 @@
 title: O último recurso
 layout: post
 categories:
-- post
+- artigos
 ---
 
 Enquanto existem recursos é possível a procura de soluções no exterior.

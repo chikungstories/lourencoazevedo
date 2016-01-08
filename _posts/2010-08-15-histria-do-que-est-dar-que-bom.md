@@ -3,7 +3,7 @@ title: A História do que está a dar é que é bom.
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Os restaurantes chineses quase estão extintos &#8211; agora estão transformados em pizzarias ou &#8220;japoneses&#8221;.
 

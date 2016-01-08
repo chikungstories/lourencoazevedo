@@ -3,7 +3,7 @@ title: O que o Chi Kung pode aprender com a Meditação
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 A meditação é algo **Simples** de aprender, é facilmente **Praticado (Replicável) ** em casa, assenta sobre **uma base teórica coerente**, pode ser **transposto para fora do local de prática** **e pode **ser praticado em qualquer lugar** que tenha 2 metros quadrados.
 

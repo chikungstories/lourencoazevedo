@@ -3,7 +3,7 @@ title: Mente divergente
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Podemos considerar a mente de linear onde tudo vai de A a B de forma limpa ou a mente divergente, onde se chega lá mas se chega de A para B de todas as formas possíveis e imagináveis.
 

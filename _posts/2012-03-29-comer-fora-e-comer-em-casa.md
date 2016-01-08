@@ -3,7 +3,7 @@ title: Comer fora e comer em casa
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Quando decidimos comer fora escolhemos um restaurante, sentamos-nos e decidimos o que queremos comer. Passados alguns minutos o alimento desejado é-nos servido.
 

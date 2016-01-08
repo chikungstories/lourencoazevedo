@@ -3,7 +3,7 @@ title: Encontra-se no Presente ou no Futuro?
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Algumas religiões, empregos ou treinos funcionam a partir do paradigma do burro e da cenoura.
 

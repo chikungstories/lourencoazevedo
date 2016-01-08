@@ -2,7 +2,7 @@
 layout: post
 title: Onde pode simplificar mais?
 categories:
-- post
+- artigos
 ---
 >A nossa vida é desperdiçada com detalhes, simplifique, simplifique - **Henry Thoreau**
 

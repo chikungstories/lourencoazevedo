@@ -2,7 +2,7 @@
 layout: post
 title: Chi Kung depois da Páscoa
 categories:
-- post
+- artigos
 ---
 Começaram nos dias 31 de Março e 2 de Abril os diversos programas de estudo. 
 

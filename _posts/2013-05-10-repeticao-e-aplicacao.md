@@ -3,7 +3,7 @@ title: Repetição e aplicação
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 O que ainda se lembram que aprenderam na escola primária?
 

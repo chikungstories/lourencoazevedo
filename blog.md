@@ -27,7 +27,7 @@ title: Blog
       {% endif %}
     {% endunless %}
     
-      <p>{{ post.date | date:"%d-%b: " }} <a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p>{{ post.date | date:"%d  :" }} <a href="{{ post.url }}">{{ post.title }}</a></p>
    
   {% endfor %}
 </ul>

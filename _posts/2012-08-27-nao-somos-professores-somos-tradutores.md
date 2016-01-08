@@ -3,7 +3,7 @@ title: Não somos professores, somos tradutores
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Traduzir chinês antigo é uma arte.
 

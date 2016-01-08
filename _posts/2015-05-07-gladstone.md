@@ -3,7 +3,7 @@ layout: post
 title: Chi Kung em viagem - Gladstone Library - Parte 1
 image: /pimagens/2015-05-07-1.jpg
 categories:
-- post
+- artigos
 ---
 
 A 50 minutos de Liverpool fica [Gladstone Library](https://www.gladstoneslibrary.org/). 

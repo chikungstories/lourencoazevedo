@@ -3,7 +3,7 @@ title: Chi Kung Sénior
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Numa reunião sobre planificação de recursos alguém tentou-me convencer que ensinar Chi Kung à população sénior era uma perca de tempo e que deveriam ser criodos mais meios para promover o para o Chi Kung Infantil.
 

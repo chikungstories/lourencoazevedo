@@ -2,7 +2,7 @@
 title: Prática intensiva de Zhan Zhuang Chi Kung dia 16 de Novembro
 layout: post
 categories:
-- post
+- artigos
 ---
 
 "Procurar a quietude no movimento e o movimento na quietude"

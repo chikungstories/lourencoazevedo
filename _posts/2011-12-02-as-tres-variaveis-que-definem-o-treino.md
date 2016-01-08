@@ -3,7 +3,7 @@ title: As três variaveis para um treino flexível.
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Uma amiga minha falou-me do conceito Bootcamp. Bootcamp é um programa de treino que usa o espaço envolvente para criar um ambiente propício à prática.
 

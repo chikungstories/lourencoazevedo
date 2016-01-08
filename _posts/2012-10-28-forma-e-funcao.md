@@ -3,7 +3,7 @@ title: Forma e Função
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Podemos passar um ano lectivo a explorar apenas uma postura da árvore durante cada aula de 60 minutos.
 

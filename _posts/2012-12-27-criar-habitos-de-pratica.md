@@ -3,7 +3,7 @@ title: 5 + 1 ideias para criar hábitos de prática mais sólidos
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Se no passado eu insistisse com um aluno que deveria treinar mais em casa era bem provável que esse aluno deixasse as aulas.
 

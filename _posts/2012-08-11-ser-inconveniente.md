@@ -3,7 +3,7 @@ title: Ser inconveniente
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Todos nós sabemos que o Chi Kung que ensinamos tem partes inconvenientes.
 

@@ -2,7 +2,7 @@
 layout: post
 title: A (in)segurança das fórmulas, ou porque não podemos ser como os antigos mestres.
 categories:
-- post
+- artigos
 ---
 Cultivar a mestria numa arte, não se limita a copiar a imagem do Mestre/Artista que a criou. Significa absorver os seus princípios, absorver nos ensinamentos, aquilo que independentemente da época ou do espaço onde se encontra pode ser aplicado. Não a sua imagem, roupas ou corte de cabelo. 
 

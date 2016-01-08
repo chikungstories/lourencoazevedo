@@ -3,7 +3,7 @@ title: Quatro propostas para o Cultivo da Quietude
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Uma das questões que os alunos encontram nas minhas aulas é a dificuldade no cultivo da quietude nas posturas do Zhan Zhuang Chi Kung e os exercícios com múltiplas repetições. Como por exemplo, rodar a anca 30 vezes para cada um dos lados.
 

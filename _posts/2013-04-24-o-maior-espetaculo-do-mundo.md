@@ -3,7 +3,7 @@ title: O maior Espetáculo do Mundo
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Na semana passada tivemos aqui no Alentejo a visita de um circo mesmo à porta de casa.
 

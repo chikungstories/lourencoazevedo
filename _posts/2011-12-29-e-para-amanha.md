@@ -3,7 +3,7 @@ title: É para amanhã
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Retomar hábitos depois de um período de interrupção é sempre &#8211; pelo menos para mim um desafio.
 

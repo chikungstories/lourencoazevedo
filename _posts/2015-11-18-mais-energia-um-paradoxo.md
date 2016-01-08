@@ -3,7 +3,7 @@ title: 'O paradoxo do &#8220;Mais Energia&#8221;.'
 author: Lourenco de Azevedo
 layout: post
 categories:
-- post
+- artigos
 ---
 Quem prescreve suplementos ou plantas Chinesas, sabe que um paciente que está cansado &#8211; porque trabalha intensamente oito horas por dia, não vai melhorar quando toma um tónico &#8211; mas ao tomar esse tónica vai aumentar as provabilidades de entrar em exaustão.
 

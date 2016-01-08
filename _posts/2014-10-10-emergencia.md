@@ -3,7 +3,7 @@ title: Prática de emergência
 author: lourenco
 layout: post
 categories:
-- post
+- artigos
 ---
 &#8220;Não importa se o teu avançar é lento, desde que não pares&#8221; &#8211; Confucio
 

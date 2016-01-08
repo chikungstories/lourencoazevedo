@@ -3,7 +3,7 @@ title: Criar intimidade com o Treino
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 A melhor forma de criar intimidade com alguém é traze-lo às tarefas e aos momentos mais comuns da nossa vida.
 

@@ -2,7 +2,7 @@
 title: A Velocidade e o Memorável
 layout: post
 categories:
-- post
+- artigos
 ---
 Em Janeiro de 2015, realizou-se o primeiro jogo de Tenis4 Speed. São encontros que têm a duração máxima de uma hora. Esta modalidade, poderá  substituir no futuro os actuais jogos que têm uma duração prevista às vezes de três horas. 
 

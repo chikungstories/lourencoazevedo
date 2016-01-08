@@ -3,7 +3,7 @@ title: Transplantes
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Um transplante bem sucedido acontece quando o corpo não rejeita o órgão que é transplantado.
 

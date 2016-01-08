@@ -3,7 +3,7 @@ title: Deixar de estudar Chi Kung
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Estudar implica algo formal.
 

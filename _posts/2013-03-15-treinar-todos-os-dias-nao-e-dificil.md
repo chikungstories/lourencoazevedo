@@ -3,7 +3,7 @@ title: Treinar todos os dias não é difícil
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 O que se torna desafiante é criar tempo para nós.
 

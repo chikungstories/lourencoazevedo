@@ -3,7 +3,7 @@ title: Viver sem fronteiras
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Ao assistir a um espectáculo musical esquece facilmente as milhares de horas que cada músico acumulou para poder apresentar-se com características únicas. Uma peça de barro ou de tecido acumula a experiência, anos de aprendizagem e investigação até ter a qualidade que chega até às suas mãos. Um bailarino tem décadas de trabalho no corpo, um escritor milhares de horas de escrita. Nestas e em muitas outras actividades artísticas existe a simbiose aparentemente perfeita entre profissão e paixão. 
 

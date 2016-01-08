@@ -2,7 +2,7 @@
 layout: post
 title: O teste do tempo
 categories:
-- post
+- artigos
 --- 
 Qualquer sistema de Chi Kung que seja possível estudar hoje tem o mérito de ter sobrevivido ao desafio de acompanhar e beneficiar centenas de gerações e de chegar até aos nossos dia para que também nós possamos usufruir dele. 
 

@@ -3,7 +3,7 @@ title: Fotocopiadoras e Automóveis
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Se conhecerem um vendedor de fotocopiadoras da Rank Xerox este vai vos dar as razões porque a sua marca é a melhor em relação à concorrência.
 

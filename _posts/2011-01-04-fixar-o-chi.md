@@ -3,7 +3,7 @@ title: Fixar o Chi
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Um dia contaram-me que havia um mestre que não escrevia sobre o seu treino.
 

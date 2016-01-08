@@ -3,7 +3,7 @@ title: As 7 Perguntas.
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 O treino individual é sempre um treino que coloca questões.
 

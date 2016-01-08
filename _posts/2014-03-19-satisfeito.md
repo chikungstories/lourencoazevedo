@@ -2,7 +2,7 @@
 layout: post
 title: Qual é a capacidade do seu sistema digestivo?
 categories:
-- post
+- artigos
 ---
 
 Podemos almoçar num buffet, comer até testar os limites máximos do estômago e mesmo assim não ficar nutridos.

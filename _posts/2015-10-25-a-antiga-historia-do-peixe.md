@@ -3,7 +3,7 @@ title: A antiga história do peixe
 author: Lourenco de Azevedo
 layout: post
 categories:
-  - post
+  - artigos
 ---
 A pergunta &#8220;O que posso/como posso para&#8230;.&#8221; obtém frequentemente uma resposta directa:
 

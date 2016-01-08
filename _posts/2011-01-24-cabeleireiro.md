@@ -3,7 +3,7 @@ title: Cabeleireiro
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Em Amesterdão existe um cabeleireiro.
 

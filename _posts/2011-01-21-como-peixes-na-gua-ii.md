@@ -3,7 +3,7 @@ title: Como peixes na água II
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Uma coisa é querer sentir o Chi &#8211; Atitude Yang.
 

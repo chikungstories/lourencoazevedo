@@ -4,7 +4,7 @@ author: Lourenco de Azevedo
 image: /pimagens/2015-11-05.jpg
 layout: post
 categories:
-  - post
+  - artigos
 ---
 O ser humano não vive agora tempos desafiantes, o ser humano sempre viveu tempos desafiantes. Na raiz deste desafio, está a constante mudança à qual cada um de nós tem mais ou menos facilidade em adaptar-se.
 

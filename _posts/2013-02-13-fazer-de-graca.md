@@ -3,7 +3,7 @@ title: 'Fazer &#8220;de graça&#8221;'
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Esta sensação define claramente aquilo que é trabalho e aquilo que é efetivamente prazer de expressar a arte do ensino.
 

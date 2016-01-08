@@ -3,7 +3,7 @@ title: Descubram as diferenças.
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Existem fórmulas de plantas chinesas que continuam a ser utilizadas hoje embora tenham sido criadas à alguns séculos atrás.
 

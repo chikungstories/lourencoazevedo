@@ -2,7 +2,7 @@
 layout: post
 title: "Apêndices"
 categories:
-- post
+- artigos
 ---
 Existem livros fantásticos sobre Chi Kung, muitas imagens, muitas técnicas de mestres muito famosos ou a caminho disso.
 

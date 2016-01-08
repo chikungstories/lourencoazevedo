@@ -3,7 +3,7 @@ title: Testar a flexibilidade
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 <p><a href="http://dennywaxman.com/" target="_blank">Denny Waxman</a> é um consultor macrobiótico que tive em tempos a sorte de traduzir.</p>
 

@@ -3,7 +3,7 @@ title: O ritmo da música
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Quando se ensina alunos séniores ou crianças existe um ponto em comum.
 

@@ -2,7 +2,7 @@
 title: "E se fosse possível praticar todos os dias em 2014?"
 layout: post
 categories:
-- post
+- artigos
 ---
 Mas provavelmente não vai ser. 
 

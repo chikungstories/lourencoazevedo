@@ -3,7 +3,7 @@ title: Explorar e Conhecer
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Explorar define que conhecemos o terreno.
 

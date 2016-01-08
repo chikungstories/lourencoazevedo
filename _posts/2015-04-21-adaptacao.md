@@ -2,7 +2,7 @@
 layout: post
 title: Castanhas no Inverno e Morangos no Verão
 categories:
-- post
+- artigos
 ---
 Em Lisboa, assim que o calor surge, alguns vendedores de castanhas apagam a fornalha do carro e transformam-no numa banca de venda de morangos. 
 

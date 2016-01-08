@@ -2,7 +2,7 @@
 layout: post
 title: A Domesticação
 categories:
-- post
+- artigos
 ---
 Segundo o Infopédia, cidade é
 

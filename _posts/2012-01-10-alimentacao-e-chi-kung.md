@@ -3,7 +3,7 @@ title: Alimentação e Chi Kung
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 >Quando o Sangue circula bem nos vasos, o Espírito (Jing Shen) encontra-se lúcido -Ling Shu Cap. 22.
 

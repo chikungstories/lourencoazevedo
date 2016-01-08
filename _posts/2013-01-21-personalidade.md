@@ -3,7 +3,7 @@ title: Joseph Pilates, Nelson Mandela e Guo Yunshen
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 **<a href="http://en.wikipedia.org/wiki/Joseph_Pilates" target="_blank">Joseph Pilates</a> criador do método de Pilates** foi colocado pelo governo inglês durante a Primeira Guerra Mundial num campo de detenção.
 

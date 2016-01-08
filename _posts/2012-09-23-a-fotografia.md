@@ -3,7 +3,7 @@ title: A Fotografia
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 
 <img class='profile' src='/files/primeirafoto.jpg' style='float: left; margin-right: 1em; width: 350px;'/>

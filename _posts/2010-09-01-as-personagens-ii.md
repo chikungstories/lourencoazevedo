@@ -3,7 +3,7 @@ title: As Personagens II
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 **O Instrutor** é suposto fazer uma coisa &#8211; repetir aquilo que aprendeu. Lê um livro, faz um workshop, ouve uma frase e repete às veze na aula do dia a seguir.
 

@@ -3,7 +3,7 @@ title: O novo Vídeo Essencial 2014
 author: lourenco
 layout: post
 categories:
-- post
+- artigos
 ---
 Em Março de 2013 foi lançado o primeiro Vídeo Essencial. O meu propósito foi criar visualmente material que pudesse constituir a linguagem da Arte do Cultivo da Quietude. Assim, quando refiro a postura de Recolher a Energia Vital, posso-a ligar a um exercício que poderá ser visualizado. Esta linguagem torna-se um apoio, especialmente se é a primeira vez que alguém toma contacto com ela.
 

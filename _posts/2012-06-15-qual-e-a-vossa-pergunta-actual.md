@@ -3,7 +3,7 @@ title: Qual é a vossa pergunta actual?
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 &#8220;Qual o som que faz uma mão a bater palmas?&#8221;
 

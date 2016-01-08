@@ -3,7 +3,7 @@ title: Longevidade
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Se lerem sobre quem passou a idade das 100 Primaveras vão encontrar em muitas dessas pessoas hábitos que eles consideram os seus segredos.
 

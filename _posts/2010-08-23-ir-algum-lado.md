@@ -3,7 +3,7 @@ title: Ir a algum lado
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Há dias ou semanas que o treino parece que não leva a lado nenhum.
 

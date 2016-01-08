@@ -3,7 +3,7 @@ title: Quando Chove
 author: lourenco
 layout: post
 categories:
-- post
+- artigos
 ---
 <blockquote style="font-family: Arial;">
   <p>

@@ -2,7 +2,7 @@
 layout: post
 title: Guia de Sobrevivência
 categories:
-- post
+- artigos
 ---
 Com o encerramento do blog [mZero - A Arte de Criar Possibilidades Extraordinárias](http://mzero.devagar.org) deu-se a migração de subscritores desse espaço para a Arte do Cultivo da Quietude.
 

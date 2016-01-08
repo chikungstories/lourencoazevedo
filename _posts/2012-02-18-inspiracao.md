@@ -3,7 +3,7 @@ title: Inspiração
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 No tempo em que as guerras eram de faca e alguidar uma das formas de motivar os guerreiros antes da batalha, era colocar dois guerreiros dotados a combater entre si antes do batalhão sair para o campo de confronto.
 

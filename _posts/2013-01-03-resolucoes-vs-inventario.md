@@ -3,7 +3,7 @@ title: Resoluções vs Inventário
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Acredito que tenham havido muitas resoluções de Ano Novo.
 

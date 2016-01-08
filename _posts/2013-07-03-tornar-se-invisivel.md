@@ -3,7 +3,7 @@ title: Tornar-se invisível
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 *&#8220;Ó pai aqui neste jardim também existem estátuas como as outras?&#8221;* &#8211; Comentário de uma criança quando passou por mim enquanto eu praticava Zhan Zhuang Chi Kung.
 

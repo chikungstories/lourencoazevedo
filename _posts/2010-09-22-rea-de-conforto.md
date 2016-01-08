@@ -3,7 +3,7 @@ title: Área de conforto
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Para quem pratica à algum tempo é fácil uma área de conforto
 

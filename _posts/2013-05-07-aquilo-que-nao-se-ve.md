@@ -3,7 +3,7 @@ title: Aquilo que não se vê
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 <p lang="pt-PT">
   <span style="color: #000000;">Numa orquestra diz-se que o contrabaixo é o instrumento que só se dá por ele quando não está presente. </span>

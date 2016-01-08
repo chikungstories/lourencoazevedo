@@ -3,7 +3,7 @@ title: 'Tem um desejo: Foco ou Vitalidade?'
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 >A vitalidade mostra não só a capacidade de persistir como também a capacidade de começar de novo - F. Scott Fitzgerald
 

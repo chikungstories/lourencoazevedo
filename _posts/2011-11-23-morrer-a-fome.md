@@ -3,7 +3,7 @@ title: Morrer à fome
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Partilho convosco um receio que penso que é comum a outros professores.
 

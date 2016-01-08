@@ -3,7 +3,7 @@ title: O Chi Kung funciona?
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 É comum que no fim do ano letivo surja a pergunta:
 

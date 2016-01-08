@@ -3,7 +3,7 @@ title: Os três hábitos essenciais de treino
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Embora este blog seja sobre a arte que ensino &#8211; o Zhan Zhuang Chi Kung. este facto não faz dele o melhor sistema do mundo ou um sistema mais especial que todos os outros.
 

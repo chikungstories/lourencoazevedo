@@ -3,7 +3,7 @@ title: Experimentar para crer
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Por norma há muito tempo que não deixo ninguém que quer experimentar Chi Kung &#8220;ficar só ver&#8221;as minhas aulas.
 

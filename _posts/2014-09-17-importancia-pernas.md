@@ -3,7 +3,7 @@ title: 'Fortalecer Corpo, Respiração e Mente - Artigo 2'
 author: lourenco
 layout: post
 categories:
-- post
+- artigos
 ---
 No último artigo desta série foi explicada a relação do corpo com a saúde das nove articulações principais. Hoje vamos estudar a **importância das pernas no fortalecimento do corpo.**
 

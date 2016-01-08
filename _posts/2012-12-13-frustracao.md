@@ -3,7 +3,7 @@ title: Frustração
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Quem quer construir hábitos de prática consistentes mais tarde ou mais cedo encontra a frustração.
 

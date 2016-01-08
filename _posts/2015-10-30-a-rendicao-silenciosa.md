@@ -3,7 +3,7 @@ title: A rendição silenciosa
 author: Lourenco de Azevedo
 layout: post
 categories:
-  -post
+  - artigos
 ---
 É comum surgir de quando em vez, um filme em que os humanos lutam contra uma possível revolta e invasão das máquinas. Essas máquinas invadem, oprimem e escravizam raça humana.
 

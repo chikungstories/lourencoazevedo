@@ -2,7 +2,7 @@
 layout: post
 title: "Trabalho de Equipe"
 categories:
-- post
+- artigos
 ---
 A **Silvia** foi uma convidada nossa para o campo de Lekunberri. Esteve responsável por uma manhã de recolha de plantas e depois à noite pela fabricação de um creme para a pele com as plantas recolhidas. É bióloga e as plantas e a preparação das mesmas para fins medicinais são a sua paixão.
 

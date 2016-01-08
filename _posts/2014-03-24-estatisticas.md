@@ -2,7 +2,7 @@
 layout: post
 title: As estatisticas
 categories:
-- post
+- artigos
 ---
 
 Durante ambos os blocos de aulas regulares e avançadas 

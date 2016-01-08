@@ -3,7 +3,7 @@ title: Como peixes na água
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Segundo a teoria da Medicina Tradicional Chinesa o Chi está em todo o lado.
 

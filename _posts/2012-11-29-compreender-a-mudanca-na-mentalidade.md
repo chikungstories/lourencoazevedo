@@ -3,7 +3,7 @@ title: Compreender a mudança na mentalidade
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 Numa entrevista publicada no Jornal Público a Nicholas Carr sobre como a internet está a mudar a nossa forma de pensar, encontramos alguns dos sintomas referentes à dificuldade que existe em criar hábitos de treino consistentes.
 

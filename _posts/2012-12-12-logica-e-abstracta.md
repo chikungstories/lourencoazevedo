@@ -3,7 +3,7 @@ title: Mente lógica e abstracta na criação de hábitos de treino
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 A mente lógica:
 

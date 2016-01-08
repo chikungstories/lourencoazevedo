@@ -2,7 +2,7 @@
 layout: post
 title: Responder a partir da quietude
 categories:
-- post
+- artigos
 ---
 
 + Responder aos emails

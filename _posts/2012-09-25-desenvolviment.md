@@ -3,7 +3,7 @@ title: Chi Kung e desenvolvimento pessoal
 author: admin
 layout: post
 categories:
-- post
+- artigos
 ---
 
 O meu primeiro contacto com o Chi Kung foi em 1996 mas foi em 1998, quando iniciei os estudos em Medicina Tradicional Chinesa que este contacto começou a estar presente no meu dia a dia até aos dias de hoje.
