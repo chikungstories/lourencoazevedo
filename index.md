@@ -6,7 +6,7 @@ title: Zhan Zhuang Chi Kung | A Arte do Cultivo da Quietude
 
 ## E se fosse possível praticar Chi Kung todos os dias?
 
-As aulas iniciaram-se no dia 12 de Janeiro – [Inscrições abertas!](/aulas.html)
+As aulas iniciam-se no dia 12 de Janeiro – [Inscrições abertas!](/aulas.html)
 
 Todas as aulas são realizadas no Instituto Macrobiótico de Portugal
 
