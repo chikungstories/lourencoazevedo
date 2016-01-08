@@ -1,6 +1,8 @@
 ---
 title: Linguagem
 layout: post
+categories:
+- post
 ---
 
 Quando iniciamos a aprendizagem de uma linguagem iniciamos essa aprendizagem pelas letras, essas letras mais tarde formam palavras e depois podemos construir frases ou mesmo parágrafos.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: O milagre da verticalidade 
+categories:
+- post
 ---
 
 <p align="center"><img src="http://lourencoazevedo.com/pimagens/2014-08-19.jpg" style="border: 1px solid #ccc; padding: 4px; width: 100%"></p>

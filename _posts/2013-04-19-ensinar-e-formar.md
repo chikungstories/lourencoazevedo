@@ -2,6 +2,8 @@
 title: Ensinar e Formar
 author: admin
 layout: post
+categories:
+- post
 ---
 Todas as quintas feiras desloco-me ao <a href="http://www.e-macrobiotica.com/" target="_blank">Instituto Macrobiótico de Portugal</a> para ensinar.
 

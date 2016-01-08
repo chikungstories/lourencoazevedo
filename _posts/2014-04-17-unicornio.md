@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pequeno guia para observação de unicórnios
+categories:
+- post
 ---
 
 A observação de unicórnios obedece a três ideias.

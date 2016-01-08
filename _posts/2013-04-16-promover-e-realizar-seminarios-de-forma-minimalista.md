@@ -2,6 +2,8 @@
 title: Promover e realizar seminários de forma minimalista
 author: admin
 layout: post
+categories:
+- post
 ---
 Todos os anos por esta altura organizo o seminário anual com o Peter Den Dekker.
 

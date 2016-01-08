@@ -2,6 +2,8 @@
 title: Fortalecer as Pernas
 author: admin
 layout: post
+categories:
+- post
 ---
 >“O corpo envelhece, mas as pernas envelhecem primeiro.” *Provérbio Chinês*
 

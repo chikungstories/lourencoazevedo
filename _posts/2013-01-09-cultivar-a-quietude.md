@@ -2,6 +2,8 @@
 title: Cultivar a Quietude
 author: admin
 layout: post
+categories:
+- post
 ---
 Em Novembro Leo Babauta sugeriu que quem o lê no seu blog Zen Habits entrasse no desafio de [não comprar nada no mês de Dezembro.](http://zenhabits.net/buy-nada/)
 

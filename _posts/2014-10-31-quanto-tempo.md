@@ -2,6 +2,8 @@
 title: Quanto tempo o mundo pode viver sem mim?
 author: lourenco
 layout: post
+categories:
+- post
 ---
 Na resposta vai encontrar a medida para o seu treino de hoje.
 

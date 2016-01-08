@@ -2,6 +2,8 @@
 title: 5 Ideias para criar uma Mente Tranquila
 author: admin
 layout: post
+categories:
+- post
 ---
 Na prática do Chi Kung a tranquilidade da mente é essencial para que o treino possa ser ainda mais benéfico.
 

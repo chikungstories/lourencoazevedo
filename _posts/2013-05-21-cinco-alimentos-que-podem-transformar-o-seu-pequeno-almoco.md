@@ -2,6 +2,8 @@
 title: Cinco alimentos que podem transformar o seu pequeno-almoço
 author: admin
 layout: post
+categories:
+- post
 ---
 Quando me disseram se queria melhorar a minha condição atual de asma e alergias devia deixar de beber leite a minha pergunta seguinte foi:
 

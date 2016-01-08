@@ -2,6 +2,8 @@
 title: A favor ou contra
 author: admin
 layout: post
+categories:
+- post
 ---
 Numa situação de tensão,
 

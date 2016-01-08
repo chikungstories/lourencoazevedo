@@ -1,6 +1,8 @@
 ---
 title: As práticas universais
 layout: post
+categories:
+- post
 ---
 Com o meu pai que era camionista de longo curso aprendi que existem tarefas diárias que pela repetição podem ser uma meditação profunda e transformadas em arte.
 

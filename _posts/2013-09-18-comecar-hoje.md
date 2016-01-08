@@ -1,6 +1,8 @@
 ---
 title: Começar hoje
 layout: post
+categories:
+- post
 ---
 É tentador refugiarmo-nos na afirmação: 
 

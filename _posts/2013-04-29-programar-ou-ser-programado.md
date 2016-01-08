@@ -2,6 +2,8 @@
 title: Programar ou ser Programado
 author: admin
 layout: post
+categories:
+- post
 ---
 Aos 8 meses foi-me diagnosticada asma consequência de uma constipação mal tratada.
 

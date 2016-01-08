@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Criar espaço 
+categories:
+- post
 ---
 Iniciar uma nova prática é lidar com necessidade de criação de espaço para que ela possa germinar, crescer e dar frutos.
  

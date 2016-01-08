@@ -2,13 +2,8 @@
 title: Tornar-se invisível
 author: admin
 layout: post
-tags:
-  - Chi Kung
-  - exercício
-  - Integração
-  - Lisboa
-  - retiro
-  - treino
+categories:
+- post
 ---
 *&#8220;Ó pai aqui neste jardim também existem estátuas como as outras?&#8221;* &#8211; Comentário de uma criança quando passou por mim enquanto eu praticava Zhan Zhuang Chi Kung.
 

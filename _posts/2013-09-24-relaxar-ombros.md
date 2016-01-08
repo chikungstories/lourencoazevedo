@@ -1,6 +1,8 @@
 ---
 title: Aprender a relaxar os ombros
 layout: post
+categories:
+- post
 ---
 Na minha experiência os ombros são um dos locais onde externamente se condensam mais tensões no ser humano. 
 

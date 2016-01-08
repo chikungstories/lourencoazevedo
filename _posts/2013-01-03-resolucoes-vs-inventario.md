@@ -2,6 +2,8 @@
 title: Resoluções vs Inventário
 author: admin
 layout: post
+categories:
+- post
 ---
 Acredito que tenham havido muitas resoluções de Ano Novo.
 

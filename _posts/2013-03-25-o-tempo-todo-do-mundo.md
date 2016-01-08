@@ -2,6 +2,8 @@
 title: O Tempo todo do Mundo
 author: admin
 layout: post
+categories:
+- post
 ---
 Mudei para o Alentejo em Junho de 2012,
 

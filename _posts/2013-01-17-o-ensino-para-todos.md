@@ -2,6 +2,8 @@
 title: O ensino para todos
 author: admin
 layout: post
+categories:
+- post
 ---
 Uma das formas de vender um curso na ultima década do Sec. XXI era anuncia-lo como algo que permitiria ensinar no final ou poder exercer o material aprendido e rentabilizar o investimento do curso.
 

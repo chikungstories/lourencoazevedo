@@ -1,6 +1,8 @@
 ---
 title: Promover e realizar seminários de forma minimalista
 layout: post
+categories:
+- post
 ---
 
 <p align="center"><img src="http://devagar.org/imagens/2014-04-22.jpg" style="border: 1px solid #ccc; padding: 0px; width: 90%"></p>

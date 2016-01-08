@@ -1,6 +1,8 @@
 ---
 title: A Energia Vital, os rios e a Vida
 layout: post
+categories:
+- post
 ---
 Na Medicina Tradicional Chinesa, afirma-se que o nosso corpo é como um rio.
 

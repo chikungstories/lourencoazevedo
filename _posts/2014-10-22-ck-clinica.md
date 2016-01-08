@@ -2,6 +2,8 @@
 title: 'O Chi Kung na Clínica &#8211; Micro Sistemas'
 author: lourenco
 layout: post
+categories:
+- post
 ---
 > “*Ofereçam um peixe a um homem e alimentam-no por um dia, ensinem-no a pescar e alimentam-no para toda a vida” *- **Provérbio Chinês.**
 

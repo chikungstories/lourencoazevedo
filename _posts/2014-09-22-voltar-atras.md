@@ -2,6 +2,7 @@
 title: Voltar atrás no tempo
 author: lourenco
 layout: post
+
 ---
 Se lermos os clássicos de qualquer filosofia ou religião, vamos encontrar a dado momento referência a um tipo de caos humano que se vivia na época em que essa a obra foi escrita.
 

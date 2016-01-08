@@ -2,6 +2,8 @@
 title: Quando Chove
 author: lourenco
 layout: post
+categories:
+- post
 ---
 <blockquote style="font-family: Arial;">
   <p>

@@ -1,6 +1,8 @@
 ---
 title: Peregrinação
 layout: post
+categories:
+- post
 ---
 No passado as peregrinações tinha a função de colocar o peregrino mais perto de si mesmo. Duravam meses e até mesmo
 anos. Durante este tempo de caminhada havia a possibilidade de ajustar o ritmo dos passos, ciclos de repouso e de

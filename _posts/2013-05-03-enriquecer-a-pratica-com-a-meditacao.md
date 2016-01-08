@@ -2,6 +2,8 @@
 title: Enriquecer a prática com a Meditação
 author: admin
 layout: post
+categories:
+- post
 ---
 Treinar não se refere às aulas refere-se a conquista individual de cada uma de construir o seu próprio treino.
 

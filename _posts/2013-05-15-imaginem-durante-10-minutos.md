@@ -2,6 +2,8 @@
 title: Imaginem durante 10 minutos
 author: admin
 layout: post
+categories:
+- post
 ---
 Imagine que **todos os dias** durante 10 minutos é sujeito a uma situação de stress elevado que o leva ao limite da sua sanidade.
 

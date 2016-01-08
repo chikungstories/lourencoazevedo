@@ -1,6 +1,8 @@
 ---
 title: O último recurso
 layout: post
+categories:
+- post
 ---
 
 Enquanto existem recursos é possível a procura de soluções no exterior.

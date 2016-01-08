@@ -2,6 +2,8 @@
 title: Repetição e aplicação
 author: admin
 layout: post
+categories:
+- post
 ---
 O que ainda se lembram que aprenderam na escola primária?
 

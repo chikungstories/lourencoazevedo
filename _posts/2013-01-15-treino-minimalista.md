@@ -3,6 +3,7 @@ title: Treino Minimalista
 author: admin
 layout: post
 categories:
+- post
 ---
 Conseguem levar convosco o vosso Chi Kung para qualquer lugar?
 

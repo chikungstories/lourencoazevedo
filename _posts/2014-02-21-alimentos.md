@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Alimentos que beneficiam a prática
+categories:
+- post
 ---
 Quem pratica Chi Kung sabe que não é um desporto de alta competição, não se
 corre, não se faz flexões, não existe um objectivo competitivo e que foi criado para ser praticado durante toda vida. 

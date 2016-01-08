@@ -2,6 +2,8 @@
 title: A pergunta
 author: lourenco
 layout: post
+categories:
+- post
 ---
 Porque é que o treino não se realizou hoje?
 

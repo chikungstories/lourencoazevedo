@@ -2,6 +2,8 @@
 title: Integrar o Chi Kung nas escolas
 author: admin
 layout: post
+categories:
+- post
 ---
 Existe uma <a href="http://euskaleskolamakrobiotikoa.blogspot.pt/" target="_blank">Escola de Macrobiótica em Pamplona</a> que integrou o Chi Kung no seu curriculum de três anos.
 

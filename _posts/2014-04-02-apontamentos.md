@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Os apontamentos na primeira pessoa.
+categories:
+- post
 ---
 
 ![apontamentos](http://devagar.org/imagens/2014-04-02.jpg)

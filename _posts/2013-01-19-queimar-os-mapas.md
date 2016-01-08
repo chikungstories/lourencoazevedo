@@ -2,6 +2,8 @@
 title: Queimar os mapas
 author: admin
 layout: post
+categories:
+- post
 ---
 No final do Sec. XIX estudiosos tentaram prever como seria Nova Iorque 100 anos depois.
 

@@ -2,6 +2,8 @@
 title: Retiro Urbano, Ams. 09:33min
 author: admin
 layout: post
+categories:
+- post
 ---
 Perdi a conta das vezes que já estive em Amsterdão. Desde 2004 terão sido já cerca de 20.
 

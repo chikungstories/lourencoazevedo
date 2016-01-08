@@ -2,6 +2,8 @@
 title: 10 semanas para mudar
 author: admin
 layout: post
+categories:
+- post
 ---
 Em Outubro iniciei uma nova experiência com as minhas aulas. Chamo-lhe desafio das 10 semanas e destina-se a passo a passo integrar o treino do Chi Kung nas vidas de quem aceita este desafio.
 

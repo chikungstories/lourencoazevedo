@@ -2,6 +2,8 @@
 title: Simplificar para intensificar
 author: lourenco
 layout: post
+categories:
+- post
 ---
 <p style="font-family: Arial;">
   &#8220;A nossa vida é desperdiçada por detalhes… simplificar, simplificar&#8221; &#8211; Henry David Thoreau, Escritor, 1817-1862

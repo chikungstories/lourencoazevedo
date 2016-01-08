@@ -2,6 +2,8 @@
 title: Manter-se inspirado
 author: lourenco
 layout: post
+categories:
+- post
 ---
 > &#8220;Só ensinamos o que necessitamos de aprender&#8221; &#8211; Autor desconhecido. 
 

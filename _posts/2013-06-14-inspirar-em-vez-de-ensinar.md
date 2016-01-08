@@ -2,6 +2,8 @@
 title: Inspirar em vez de ensinar
 author: admin
 layout: post
+categories:
+- post
 ---
 Existe a ideia de que quanto mais conhecimento possuímos mais conseguimos transmitir aos nossos alunos.
 

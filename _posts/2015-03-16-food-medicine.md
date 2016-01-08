@@ -1,6 +1,8 @@
 ---
 layout: post 
 title: Que o alimento seja o teu medicamento
+categories:
+- post
 ---
 Quem já teve a oportunidade, de observar o pequeno almoço de alguém com mais de 60 anos, pode deparar com esta visão: 
 

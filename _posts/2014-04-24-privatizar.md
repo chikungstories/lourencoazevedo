@@ -1,6 +1,8 @@
 ---
 title: Privatizar a saúde
 layout: post
+categories:
+- post
 ---
 
 >“Hoje em dia as pessoas mudaram o seu estilo de vida, bebem vinho como se fosse água, praticam actividades destrutivas e debilitam a sua energia vital. Não sabem como conservar a sua energia e vitalidade. Procuram o prazer emocional e momentâneo, entrando em conflito com a ordem natural da natureza. Falham na regulação dos seus hábitos de vida, alimentação e horas de sono. Por isso é normal que pareçam velhas aos 50 e morram pouco depois.” *Livro do Imperador Amarelo*

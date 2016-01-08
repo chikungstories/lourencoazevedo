@@ -2,6 +2,8 @@
 title: Construir o treino passo a passo
 author: admin
 layout: post
+categories:
+- post
 ---
 A prática do Chi Kung é de longe uma prática semelhante à corrida de 100 metros mas mais uma prática semelhante às ultra-maratonas de 100 milhas.
 

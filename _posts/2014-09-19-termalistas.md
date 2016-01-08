@@ -2,6 +2,8 @@
 title: 'Fortalecer Corpo, Respiração e Mente - Artigo 3'
 author: lourenco
 layout: post
+categories:
+- post
 ---
 **A Tribo dos Termalistas**
 

@@ -2,6 +2,8 @@
 title: 'O que fazer com o material de um seminário?'
 author: admin
 layout: post
+categories:
+- post
 ---
 Penso que todos os que ensinam já pelo menos uma vez na vida aprenderam um movimento num seminário e sem perder tempo o ensinaram na aula do dia a seguir.
 

@@ -1,6 +1,8 @@
 ---
 title: A Sobremesa
 layout: post
+categories:
+- post
 ---
 
 É mais fácil regressarmos a um restaurante que nos apresenta uma sobremesa excelente no final da refeição, que a um restaurante em que o prato principal é excelente e a sobremesa "assim-assim".
