@@ -6,9 +6,9 @@ layout: default
 
 Chamo-me Lourenço de Azevedo e acredito que para além de toda a teoria que possamos transmitir, o mais importante é ensinar a integrar a prática do Chi Kung no dia a dia. Em cada momento e actividade somos o reflexo dessa prática.
 
-Conheci o Chi Kung em 1997 e dedico o meu tempo  à prática, à terapia e ao ensino do Zhan Zhuang Chi Kung em [aulas regulares][2], [aulas particulares][3],  [aulas em instituições de ensino e empresas][4]. Procuro levar a integração desta arte para o dia a dia de cada praticante &#8211; ao seu ritmo individual.
+Conheci o Chi Kung em 1997 e dedico o meu tempo  à prática, à terapia e ao ensino do Zhan Zhuang Chi Kung em aulas regulares, aulas particulares, aulas em instituições de ensino e empresas. Procuro levar a integração desta arte para o dia a dia de cada praticante &#8211; ao seu ritmo individual.
 
-Semanalmente [publico artigos][5] que ajudam a criar a ponte entre a consistência de pratica regular e os afazeres diários.
+Semanalmente [publico artigos](/blog.html) que ajudam a criar a ponte entre a consistência de pratica regular e os afazeres diários.
 
 Em 1998 iniciei o estudo da Medicina Tradicional Chinesa (MTC). As minhas aulas e o que escrevo são o resultado da minha experiência directa, com o estudo e a prática terapêutica desta arte.
 
@@ -54,9 +54,7 @@ Poderá descobrir o meu percurso e o que faço em mais detalhe descarregando [o
 
 Poderá sempre se tiver mais perguntas sobre o que faço [contactar-me aqui.][9]
 
- [2]: http://lourencoazevedo.com/ "Aulas"
- [3]: /aulas-individuais.html
- [4]: /empresas.html
+ [2]: http://lourencoazevedo.com/ "Aulas"l
  [5]: /blog.html
  [6]: /files/cv.pdf
  [7]: http://eepurl.com/g-Ehg "Subscrever"
