@@ -4,7 +4,7 @@ title: Vídeos Semanais
 ---
 
 <ul>
-  {% for post in site.categories.artigos %}
+  {% for post in site.posts %}
 
     {% unless post.next %}
       <h2>{{ post.date | date: '%Y' }}</h2>
@@ -26,7 +26,21 @@ title: Vídeos Semanais
       {% endif %}
     {% endunless %}
     
+    {% if post.categories contains "artigos" %}
+  
       <p>{{ post.date | date:"%d  :" }} <a href="{{ post.url }}">{{ post.title }}</a></p>
    
+   {% endif %}
+
+  {% endfor %}
+</ul>
+
+<ul>
+  {% for post in site.categories.videos %}
+    {% if post.url %}
+
+        <p> {{ post.date | date:"%d-%b: " }} <a href="{{ post.url }}">{{ post.title }}</a></p>
+
+    {% endif %}
   {% endfor %}
 </ul>

@@ -26,8 +26,8 @@ title: Blog
         <h3>{{ post.date | date: '%b' }}</h3>
       {% endif %}
     {% endunless %}
-    
+    {% if post.categories contains "artigos" %}
       <p>{{ post.date | date:"%d  :" }} <a href="{{ post.url }}">{{ post.title }}</a></p>
-   
+   {% endif %}
   {% endfor %}
 </ul>

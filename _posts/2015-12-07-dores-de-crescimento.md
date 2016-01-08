@@ -2,6 +2,8 @@
 title: Dores de Crescimento
 author: Lourenco de Azevedo
 layout: post
+categories:
+- artigos
 ---
 O professor Yu Yong Nian partilhou com o Mestre Lam Kam Chuen que quando se pratica Zhan Zhuang Chi Kung os braços e as pernas doem sempre.
 

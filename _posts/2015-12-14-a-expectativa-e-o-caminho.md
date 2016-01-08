@@ -2,6 +2,8 @@
 title: 'A expectativa e o Caminho'
 author: Lourenco de Azevedo
 layout: post
+categories:
+- artigos
 ---
 É comum que no início de um curso ou de um bloco de aulas que seja pedido a todos os praticantes que deixem as expectativas à porta. Que a nutrição que a prática pode proporcionar, não é um processo de procurar alimento nas memórias do passado ou nos projetos do futuro, mas de encontrar os nossos recursos no presente.
 
