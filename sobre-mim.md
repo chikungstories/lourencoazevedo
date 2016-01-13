@@ -54,7 +54,7 @@ Poderá descobrir o meu percurso e o que faço em mais detalhe descarregando [o
 
 Poderá sempre se tiver mais perguntas sobre o que faço [contactar-me aqui.][9]
 
- [2]: http://lourencoazevedo.com/ "Aulas"l
+ [2]: http://lourencoazevedo.com/ "Aulas"
  [5]: /blog.html
  [6]: /files/cv.pdf
  [7]: http://eepurl.com/g-Ehg "Subscrever"

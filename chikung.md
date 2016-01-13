@@ -24,7 +24,7 @@ Na minha experiência existem sete factores que impedem que o potencial individu
   * um corpo com menos tensões físicas e mentais
   * melhor desempenho a nível pessoal e profissional
 
-## Zhan Zhuang Chi Kung 
+### Zhan Zhuang Chi Kung 
 
 Na tradição do Chi Kung existem muitas escolas e abordagens.
 
