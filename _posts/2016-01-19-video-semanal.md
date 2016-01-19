@@ -26,6 +26,6 @@ Todos os dias e frequentemente em mais locais do que julgamos possíveis, existe
 
 Da única forma possível - Pela prática efetiva e concreta.
 
-Clique para visualizar[o vídeo de prática semanal](https://vimeo.com/151702246).
+Clique para visualizar [o vídeo de prática semanal](https://vimeo.com/151702246).
 
 Boas práticas. 
