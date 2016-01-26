@@ -1,31 +1,29 @@
 ---
-title: De volta à idade dos porquês
+title: O treino adaptativo
 author: Lourenco de Azevedo
 layout: post
-video: '151702246'
+video: '153035176'
 categories:
   - videos
 ---
-O Chi Kung tem dois aspetos que permitem cultivar a Energia Vital - O movimento e a quietude. 
+20% da aprendizagem do Chi Kung é realizada nas aulas e 80% é realizada em casa pela prática diária. 
 
-Se o movimento pode ser uma porta de entrada para o Chi Kung, a quietude deverá no caso do Zhan Zhuang ser incluída em algum momento da prática. 
+Praticar nas aulas significa uma aprendizagem detalhada da técnica.
 
-Os dias estão repletos de movimento, de escolhas, de pro-atividade, de solicitações. A prática da Quietude, é o manifesto diário ao movimento que habita os seus afazeres.
++ Postura 
++ Alinhamento
++ Respiração
++ Coordenação
++ Teoria 
 
-Durante esse tempo é livre de escolher, de se autorizar e escolher a quietude ao movimento, o Ser e o Estar ao fazer.
+Praticar em casa significa aprofundar um aspecto
 
-Um dos aspetos da prática do Chi Kung, é a capacidade de levantar perguntas aos hábitos e à vida de quem o treina.
++ Adaptação
 
-"Porque é que passou mais um dia e nem 5 minutos consegui criar para praticar?"
+A adaptação refere-se a capacidade de traduzir toda a informação que nas aulas é disponibilizada para dia a dia. De sair da teoria para a prática. Da cabeça para o corpo. Do virtual para o real. Do "e se?" para "agora incondicional". 
 
-ou 
+Este aspecto é a alma da prática, é neste processo que existe a possibilidade do praticante harmonizar o treino consigo, com o espaço onde vive, com pessoas com quem vive, com as estações do ano ou da vida e de realizar a alquimia diária que transforma o tempo inútil e tempo útil. 
 
-"Porque é que a quietude, o "estar parado" é tão desafiante?", "Porque invisto tanto tempo em aprender formas e tão pouco tempo na essência do movimento - a quietude?"
-
-Todos os dias e frequentemente em mais locais do que julgamos possíveis, existe a possibilidade de contribuir um pouco mais para clarificar estas e outras perguntas. 
-
-Da única forma possível - Pela prática efetiva e concreta.
-
-Clique para visualizar [o vídeo de prática semanal](https://vimeo.com/151702246).
+Clique para visualizar [o vídeo de prática semanal](https://vimeo.com/153035176).
 
 Boas práticas. 
